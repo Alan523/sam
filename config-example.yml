@@ -1,0 +1,6 @@
+# Sample config. Add this to your config.yml in your siri-proxy install path.
+
+    - name: 'sam'
+      git: 'git://github.com/Alan523/Sam.git'
+      phrase_file: '' #Optional
+
